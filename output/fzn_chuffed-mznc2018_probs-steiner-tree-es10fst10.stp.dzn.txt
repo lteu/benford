@@ -1,0 +1,12 @@
+mznc2018_probs/steiner-tree/es10fst10.stp.dzn
+es = array1d(1..21, [true, false, true, true, true, true, false, true, true, false, true, true, true, true, true, false, true, true, true, true, true]);
+objective = 24096332;
+root = 1;
+vs = array1d(1..18, [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]);
+----------
+es = array1d(1..21, [true, false, true, true, true, true, false, true, true, false, true, false, false, true, true, true, true, true, true, true, true]);
+objective = 23936095;
+root = 1;
+vs = array1d(1..18, [true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true]);
+----------
+==========

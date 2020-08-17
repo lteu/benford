@@ -1,0 +1,2 @@
+mznc2018_probs/oocsp_racks/oocsp_racks_030_f7.dzn
+=====UNSATISFIABLE=====

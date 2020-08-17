@@ -1,0 +1,2 @@
+mznc2017_probs/tc-graph-color/k2_42.dzn
+=====UNSATISFIABLE=====

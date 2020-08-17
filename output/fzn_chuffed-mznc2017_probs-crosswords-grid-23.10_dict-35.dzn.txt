@@ -1,0 +1,2 @@
+mznc2017_probs/crosswords/grid-23.10_dict-35.dzn
+=====UNSATISFIABLE=====

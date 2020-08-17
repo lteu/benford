@@ -1,0 +1,1088 @@
+mznc2019_probs/fox-geese-corn/foxgeesecorn_54.dzn
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [0, 0, 0]);
+geese = array1d(1..3, [0, 0, 0]);
+objective = 0;
+trips = 0;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 0, 0]);
+geese = array1d(1..3, [60, 0, 0]);
+objective = 1126;
+trips = 1;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 59, 60]);
+objective = 1131;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 58, 60]);
+objective = 1136;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 57, 60]);
+objective = 1141;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 56, 60]);
+objective = 1146;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 55, 60]);
+objective = 1151;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 54, 60]);
+objective = 1156;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 53, 60]);
+objective = 1161;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 52, 60]);
+objective = 1166;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 51, 60]);
+objective = 1171;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 50, 60]);
+objective = 1176;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 49, 60]);
+objective = 1181;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 48, 60]);
+objective = 1186;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 47, 60]);
+objective = 1191;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 46, 60]);
+objective = 1196;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 45, 60]);
+objective = 1201;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 44, 60]);
+objective = 1206;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 43, 60]);
+objective = 1211;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 42, 60]);
+objective = 1216;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 41, 60]);
+objective = 1221;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 40, 60]);
+objective = 1226;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 39, 60]);
+objective = 1231;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 38, 60]);
+objective = 1236;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 37, 60]);
+objective = 1241;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 36, 60]);
+objective = 1246;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 35, 60]);
+objective = 1251;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 34, 60]);
+objective = 1256;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 33, 60]);
+objective = 1261;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 32, 60]);
+objective = 1266;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 31, 60]);
+objective = 1271;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 30, 60]);
+objective = 1276;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 29, 60]);
+objective = 1281;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 28, 60]);
+objective = 1286;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 27, 60]);
+objective = 1291;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 26, 60]);
+objective = 1296;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 25, 60]);
+objective = 1301;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 24, 60]);
+objective = 1306;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 23, 60]);
+objective = 1311;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 22, 60]);
+objective = 1316;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 21, 60]);
+objective = 1321;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 20, 60]);
+objective = 1326;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 19, 60]);
+objective = 1331;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 18, 60]);
+objective = 1336;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 17, 60]);
+objective = 1341;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 16, 60]);
+objective = 1346;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 15, 60]);
+objective = 1351;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 14, 60]);
+objective = 1356;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 13, 60]);
+objective = 1361;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 12, 60]);
+objective = 1366;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 11, 60]);
+objective = 1371;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 10, 60]);
+objective = 1376;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 9, 60]);
+objective = 1381;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 8, 60]);
+objective = 1386;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 7, 60]);
+objective = 1391;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 6, 60]);
+objective = 1396;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 5, 60]);
+objective = 1401;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 4, 60]);
+objective = 1406;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 3, 60]);
+objective = 1411;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 2, 60]);
+objective = 1416;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 1, 60]);
+objective = 1421;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 118, 118]);
+geese = array1d(1..3, [60, 0, 60]);
+objective = 1426;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 86, 86]);
+geese = array1d(1..3, [60, 30, 92]);
+objective = 1429;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 86, 86]);
+geese = array1d(1..3, [60, 29, 92]);
+objective = 1434;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 85, 85]);
+geese = array1d(1..3, [60, 29, 93]);
+objective = 1439;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 85, 85]);
+geese = array1d(1..3, [60, 28, 93]);
+objective = 1444;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 84, 84]);
+geese = array1d(1..3, [60, 28, 94]);
+objective = 1449;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 84, 84]);
+geese = array1d(1..3, [60, 27, 94]);
+objective = 1454;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 83, 83]);
+geese = array1d(1..3, [60, 27, 95]);
+objective = 1459;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 83, 83]);
+geese = array1d(1..3, [60, 26, 95]);
+objective = 1464;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 82, 82]);
+geese = array1d(1..3, [60, 26, 96]);
+objective = 1469;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 82, 82]);
+geese = array1d(1..3, [60, 25, 96]);
+objective = 1474;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 81, 81]);
+geese = array1d(1..3, [60, 25, 97]);
+objective = 1479;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 81, 81]);
+geese = array1d(1..3, [60, 24, 97]);
+objective = 1484;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 80, 80]);
+geese = array1d(1..3, [60, 24, 98]);
+objective = 1489;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 80, 80]);
+geese = array1d(1..3, [60, 23, 98]);
+objective = 1494;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 79, 79]);
+geese = array1d(1..3, [60, 23, 99]);
+objective = 1499;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 79, 79]);
+geese = array1d(1..3, [60, 22, 99]);
+objective = 1504;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 78, 78]);
+geese = array1d(1..3, [60, 22, 100]);
+objective = 1509;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 78, 78]);
+geese = array1d(1..3, [60, 21, 100]);
+objective = 1514;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 77, 77]);
+geese = array1d(1..3, [60, 21, 101]);
+objective = 1519;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 77, 77]);
+geese = array1d(1..3, [60, 20, 101]);
+objective = 1524;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 76, 76]);
+geese = array1d(1..3, [60, 20, 102]);
+objective = 1529;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 76, 76]);
+geese = array1d(1..3, [60, 19, 102]);
+objective = 1534;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 75, 75]);
+geese = array1d(1..3, [60, 19, 103]);
+objective = 1539;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 75, 75]);
+geese = array1d(1..3, [60, 18, 103]);
+objective = 1544;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 74, 74]);
+geese = array1d(1..3, [60, 18, 104]);
+objective = 1549;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 74, 74]);
+geese = array1d(1..3, [60, 17, 104]);
+objective = 1554;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 73, 73]);
+geese = array1d(1..3, [60, 17, 105]);
+objective = 1559;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 73, 73]);
+geese = array1d(1..3, [60, 16, 105]);
+objective = 1564;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 72, 72]);
+geese = array1d(1..3, [60, 16, 106]);
+objective = 1569;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 72, 72]);
+geese = array1d(1..3, [60, 15, 106]);
+objective = 1574;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 71, 71]);
+geese = array1d(1..3, [60, 15, 107]);
+objective = 1579;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 71, 71]);
+geese = array1d(1..3, [60, 14, 107]);
+objective = 1584;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 70, 70]);
+geese = array1d(1..3, [60, 14, 108]);
+objective = 1589;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 70, 70]);
+geese = array1d(1..3, [60, 13, 108]);
+objective = 1594;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 69, 69]);
+geese = array1d(1..3, [60, 13, 109]);
+objective = 1599;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 69, 69]);
+geese = array1d(1..3, [60, 12, 109]);
+objective = 1604;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 68, 68]);
+geese = array1d(1..3, [60, 12, 110]);
+objective = 1609;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 68, 68]);
+geese = array1d(1..3, [60, 11, 110]);
+objective = 1614;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 67, 67]);
+geese = array1d(1..3, [60, 11, 111]);
+objective = 1619;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 67, 67]);
+geese = array1d(1..3, [60, 10, 111]);
+objective = 1624;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 66, 66]);
+geese = array1d(1..3, [60, 10, 112]);
+objective = 1629;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 66, 66]);
+geese = array1d(1..3, [60, 9, 112]);
+objective = 1634;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 65, 65]);
+geese = array1d(1..3, [60, 9, 113]);
+objective = 1639;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 65, 65]);
+geese = array1d(1..3, [60, 8, 113]);
+objective = 1644;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 64, 64]);
+geese = array1d(1..3, [60, 8, 114]);
+objective = 1649;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 64, 64]);
+geese = array1d(1..3, [60, 7, 114]);
+objective = 1654;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 63, 63]);
+geese = array1d(1..3, [60, 7, 115]);
+objective = 1659;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 63, 63]);
+geese = array1d(1..3, [60, 6, 115]);
+objective = 1664;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 62, 62]);
+geese = array1d(1..3, [60, 6, 116]);
+objective = 1669;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 62, 62]);
+geese = array1d(1..3, [60, 5, 116]);
+objective = 1674;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 61, 61]);
+geese = array1d(1..3, [60, 5, 117]);
+objective = 1679;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 61, 61]);
+geese = array1d(1..3, [60, 4, 117]);
+objective = 1684;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 60, 60]);
+geese = array1d(1..3, [60, 4, 118]);
+objective = 1689;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 60, 60]);
+geese = array1d(1..3, [60, 3, 118]);
+objective = 1694;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 59, 59]);
+geese = array1d(1..3, [60, 3, 119]);
+objective = 1699;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 59, 59]);
+geese = array1d(1..3, [60, 2, 119]);
+objective = 1704;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 58, 58]);
+geese = array1d(1..3, [60, 2, 120]);
+objective = 1709;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 58, 58]);
+geese = array1d(1..3, [60, 1, 120]);
+objective = 1714;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 57, 57]);
+geese = array1d(1..3, [60, 1, 121]);
+objective = 1719;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 57, 57]);
+geese = array1d(1..3, [60, 0, 121]);
+objective = 1724;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 56, 56]);
+geese = array1d(1..3, [60, 0, 122]);
+objective = 1729;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 55, 55]);
+geese = array1d(1..3, [60, 0, 123]);
+objective = 1734;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 54, 54]);
+geese = array1d(1..3, [60, 0, 124]);
+objective = 1739;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 53, 53]);
+geese = array1d(1..3, [60, 0, 125]);
+objective = 1744;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 52, 52]);
+geese = array1d(1..3, [60, 0, 126]);
+objective = 1749;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 51, 51]);
+geese = array1d(1..3, [60, 0, 127]);
+objective = 1754;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 50, 50]);
+geese = array1d(1..3, [60, 0, 128]);
+objective = 1759;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 49, 49]);
+geese = array1d(1..3, [60, 0, 129]);
+objective = 1764;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 48, 48]);
+geese = array1d(1..3, [60, 0, 130]);
+objective = 1769;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 47, 47]);
+geese = array1d(1..3, [60, 0, 131]);
+objective = 1774;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 46, 46]);
+geese = array1d(1..3, [60, 0, 132]);
+objective = 1779;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 45, 45]);
+geese = array1d(1..3, [60, 0, 133]);
+objective = 1784;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 44, 44]);
+geese = array1d(1..3, [60, 0, 134]);
+objective = 1789;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 43, 43]);
+geese = array1d(1..3, [60, 0, 135]);
+objective = 1794;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 42, 42]);
+geese = array1d(1..3, [60, 0, 136]);
+objective = 1799;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 41, 41]);
+geese = array1d(1..3, [60, 0, 137]);
+objective = 1804;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 40, 40]);
+geese = array1d(1..3, [60, 0, 138]);
+objective = 1809;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 39, 39]);
+geese = array1d(1..3, [60, 0, 139]);
+objective = 1814;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 38, 38]);
+geese = array1d(1..3, [60, 0, 140]);
+objective = 1819;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 37, 37]);
+geese = array1d(1..3, [60, 0, 141]);
+objective = 1824;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 36, 36]);
+geese = array1d(1..3, [60, 0, 142]);
+objective = 1829;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 35, 35]);
+geese = array1d(1..3, [60, 0, 143]);
+objective = 1834;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 34, 34]);
+geese = array1d(1..3, [60, 0, 144]);
+objective = 1839;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 33, 33]);
+geese = array1d(1..3, [60, 0, 145]);
+objective = 1844;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 32, 32]);
+geese = array1d(1..3, [60, 0, 146]);
+objective = 1849;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 31, 31]);
+geese = array1d(1..3, [60, 0, 147]);
+objective = 1854;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 30, 30]);
+geese = array1d(1..3, [60, 0, 148]);
+objective = 1859;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 29, 29]);
+geese = array1d(1..3, [60, 0, 149]);
+objective = 1864;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 28, 28]);
+geese = array1d(1..3, [60, 0, 150]);
+objective = 1869;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 27, 27]);
+geese = array1d(1..3, [60, 0, 151]);
+objective = 1874;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 0]);
+fox = array1d(1..3, [118, 26, 26]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1879;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 1]);
+fox = array1d(1..3, [118, 25, 25]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1882;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 2]);
+fox = array1d(1..3, [118, 24, 24]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1885;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 3]);
+fox = array1d(1..3, [118, 23, 23]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1888;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 4]);
+fox = array1d(1..3, [118, 22, 22]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1891;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 5]);
+fox = array1d(1..3, [118, 21, 21]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1894;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 6]);
+fox = array1d(1..3, [118, 20, 20]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1897;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 7]);
+fox = array1d(1..3, [118, 19, 19]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1900;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 8]);
+fox = array1d(1..3, [118, 18, 18]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1903;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 9]);
+fox = array1d(1..3, [118, 17, 17]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1906;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 10]);
+fox = array1d(1..3, [118, 16, 16]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1909;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 11]);
+fox = array1d(1..3, [118, 15, 15]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1912;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 12]);
+fox = array1d(1..3, [118, 14, 14]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1915;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 13]);
+fox = array1d(1..3, [118, 13, 13]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1918;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 14]);
+fox = array1d(1..3, [118, 12, 12]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1921;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 15]);
+fox = array1d(1..3, [118, 11, 11]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1924;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 16]);
+fox = array1d(1..3, [118, 10, 10]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1927;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 17]);
+fox = array1d(1..3, [118, 9, 9]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1930;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 18]);
+fox = array1d(1..3, [118, 8, 8]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1933;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 19]);
+fox = array1d(1..3, [118, 7, 7]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1936;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 20]);
+fox = array1d(1..3, [118, 6, 6]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1939;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 21]);
+fox = array1d(1..3, [118, 5, 5]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1942;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 22]);
+fox = array1d(1..3, [118, 4, 4]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1945;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 23]);
+fox = array1d(1..3, [118, 3, 3]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1948;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 24]);
+fox = array1d(1..3, [118, 2, 2]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1951;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 25]);
+fox = array1d(1..3, [118, 1, 1]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1954;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 26]);
+fox = array1d(1..3, [118, 0, 0]);
+geese = array1d(1..3, [60, 0, 152]);
+objective = 1957;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 25]);
+fox = array1d(1..3, [1, 1, 117]);
+geese = array1d(1..3, [177, 0, 36]);
+objective = 1959;
+trips = 3;
+----------
+corn = array1d(1..3, [0, 0, 26]);
+fox = array1d(1..3, [0, 0, 117]);
+geese = array1d(1..3, [178, 0, 35]);
+objective = 1962;
+trips = 3;
+----------
+==========

@@ -1,0 +1,22 @@
+mznc2017_probs/rel2onto/5_17.dzn
+es = array1d(1..80, [false, true, true, false, true, false, true, false, false, false, false, false, false, false, false, true, true, true, false, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+match = array1d(1..11, [13, 9, 5, 14, 6, 16, 11, 17, 12, 8, 15]);
+objective = 174915;
+vs = array1d(1..54, [true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+----------
+es = array1d(1..80, [false, true, true, false, true, false, true, false, false, false, false, false, false, false, false, true, false, true, false, true, true, true, true, true, true, true, false, true, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+match = array1d(1..11, [13, 9, 5, 14, 6, 16, 11, 17, 12, 8, 20]);
+objective = 166999;
+vs = array1d(1..54, [true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+----------
+es = array1d(1..80, [false, true, true, false, true, false, true, false, false, false, false, false, false, false, false, true, true, true, false, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+match = array1d(1..11, [13, 16, 5, 14, 6, 9, 11, 17, 12, 8, 15]);
+objective = 160607;
+vs = array1d(1..54, [true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+----------
+es = array1d(1..80, [false, true, true, false, true, false, true, false, false, false, false, false, false, false, false, true, false, true, false, true, true, true, true, true, true, true, false, true, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+match = array1d(1..11, [13, 16, 5, 14, 6, 9, 11, 17, 12, 8, 20]);
+objective = 152691;
+vs = array1d(1..54, [true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]);
+----------
+==========

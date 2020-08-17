@@ -1,0 +1,16 @@
+mznc2018_probs/steiner-tree/es20fst09.stp.dzn
+es = array1d(1..42, [true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, false, true, false, true, true, false, false, false, true, true, true, true, false, true, true, true]);
+objective = 38236961;
+root = 1;
+vs = array1d(1..36, [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true]);
+----------
+es = array1d(1..42, [true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, true, false, false, false, true, true, true, true, false, false, true, true]);
+objective = 37807094;
+root = 1;
+vs = array1d(1..36, [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false]);
+----------
+es = array1d(1..42, [true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, true, false, true, false, true, false, false, true, true, false, false, true, true]);
+objective = 37504927;
+root = 1;
+vs = array1d(1..36, [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, false]);
+----------

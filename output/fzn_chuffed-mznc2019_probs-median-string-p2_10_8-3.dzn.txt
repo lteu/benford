@@ -1,0 +1,35 @@
+mznc2019_probs/median-string/p2_10_8-3.dzn
+median = array1d(1..8, [0, 0, 0, 0, 0, 0, 0, 0]);
+objective = 46;
+----------
+median = array1d(1..8, [0, 0, 0, 0, 0, 3, 0, 0]);
+objective = 45;
+----------
+median = array1d(1..8, [0, 0, 0, 0, 3, 0, 0, 0]);
+objective = 44;
+----------
+median = array1d(1..8, [0, 0, 0, 3, 0, 0, 0, 0]);
+objective = 43;
+----------
+median = array1d(1..8, [0, 0, 2, 3, 0, 0, 0, 0]);
+objective = 42;
+----------
+median = array1d(1..8, [0, 2, 0, 0, 3, 0, 0, 0]);
+objective = 41;
+----------
+median = array1d(1..8, [0, 2, 0, 3, 0, 0, 0, 0]);
+objective = 40;
+----------
+median = array1d(1..8, [0, 2, 3, 0, 0, 0, 0, 0]);
+objective = 39;
+----------
+median = array1d(1..8, [1, 2, 3, 0, 0, 0, 0, 0]);
+objective = 38;
+----------
+median = array1d(1..8, [2, 0, 3, 0, 0, 0, 0, 0]);
+objective = 37;
+----------
+median = array1d(1..8, [2, 3, 0, 0, 0, 0, 0, 0]);
+objective = 36;
+----------
+==========
